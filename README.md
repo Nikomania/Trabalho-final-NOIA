@@ -5,7 +5,7 @@ A model capable of detecting brain tumors
 ### Requirements
 
 - Python 3.x installed
-- Nvidia Cuda Toolkit
+- Nvidia Cuda Toolkit (if you want to use Nvidia GPU) 
 
 ### How to run
 
